@@ -2254,6 +2254,34 @@ body {
 .cid-r3wjwN3wn4 .card {
   padding-bottom: 1.5rem;
 }
+.cid-r3wkHjx09a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f9f295;
+}
+.cid-r3wkHjx09a .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-r3wkHjx09a .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-r3wkHjx09a .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-r3wkHjx09a .mbr-text {
+  color: #ffffff;
+}
+.cid-r3wkHjx09a .card {
+  padding-bottom: 1.5rem;
+}
 .cid-r3wmy19wqj {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -2343,10 +2371,12 @@ body {
     font-size: 0.8rem;
   }
 }
-.cid-r3wkHjx09a {
+.cid-r3wtY4aR9n {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #f9f295;
 }
-.cid-r3wkHjx09a .icons-media-container {
+.cid-r3wtY4aR9n .icons-media-container {
   display: flex;
   justify-content: center;
   -webkit-justify-content: center;
@@ -2356,17 +2386,17 @@ body {
   -webkit-flex-wrap: wrap;
   padding-top: 4rem;
 }
-.cid-r3wkHjx09a .icons-media-container .mbr-iconfont {
+.cid-r3wtY4aR9n .icons-media-container .mbr-iconfont {
   font-size: 96px;
   color: #ffffff;
 }
-.cid-r3wkHjx09a .icons-media-container .icon-block {
+.cid-r3wtY4aR9n .icons-media-container .icon-block {
   padding-bottom: 1rem;
 }
-.cid-r3wkHjx09a .mbr-text {
+.cid-r3wtY4aR9n .mbr-text {
   color: #ffffff;
 }
-.cid-r3wkHjx09a .card {
+.cid-r3wtY4aR9n .card {
   padding-bottom: 1.5rem;
 }
 .cid-r3wlB7fSVb {
@@ -2393,6 +2423,32 @@ body {
   color: #ffffff;
 }
 .cid-r3wlB7fSVb .card {
+  padding-bottom: 1.5rem;
+}
+.cid-r3wvjgJo2o {
+  background-color: #f9f295;
+}
+.cid-r3wvjgJo2o .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-r3wvjgJo2o .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-r3wvjgJo2o .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-r3wvjgJo2o .mbr-text {
+  color: #ffffff;
+}
+.cid-r3wvjgJo2o .card {
   padding-bottom: 1.5rem;
 }
 .cid-qTkzRZLJNu .navbar {
