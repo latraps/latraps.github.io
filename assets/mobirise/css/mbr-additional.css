@@ -3213,6 +3213,34 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-r5Z0lKspUq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f9f295;
+}
+.cid-r5Z0lKspUq .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-r5Z0lKspUq .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-r5Z0lKspUq .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-r5Z0lKspUq .mbr-text {
+  color: #ffffff;
+}
+.cid-r5Z0lKspUq .card {
+  padding-bottom: 1.5rem;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
